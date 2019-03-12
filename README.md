@@ -1,2 +1,3 @@
 # web
-Web Editörü Dersi Kaynak Kodları
+
+Web Editörü Dersi Javascript Kaynak Kodları

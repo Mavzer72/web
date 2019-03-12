@@ -1,3 +1,3 @@
 # web
 
-Web Editörü Dersi Javascript Kaynak Kodları
+Web Editörü Dersi Javascript ve Typescript Kaynak Kodları
